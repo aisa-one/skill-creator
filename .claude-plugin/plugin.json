@@ -1,0 +1,13 @@
+{
+  "name": "skill-creator",
+  "version": "1.0.0",
+  "description": "Create, validate, and iterate on Claude Code skills and plugins. Includes best-practice guidance for SKILL.md authoring, progressive disclosure patterns, workflow design, and bundled scaffold/validation scripts.",
+  "author": {
+    "name": "AIsa",
+    "url": "https://aisa.one"
+  },
+  "homepage": "https://aisa.one",
+  "repository": "https://github.com/aisa-one/skill-creator",
+  "license": "MIT",
+  "keywords": ["skill", "plugin", "creator", "scaffold", "validation", "developer-tools", "workflow"]
+}

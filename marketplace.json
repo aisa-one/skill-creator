@@ -1,0 +1,19 @@
+{
+  "name": "aisa-marketplace",
+  "version": "1.0.0",
+  "description": "AIsa plugins for Claude Code - tools for skill creation and AI model access",
+  "owner": {
+    "name": "AIsa",
+    "url": "https://aisa.one"
+  },
+  "plugins": [
+    {
+      "name": "skill-creator",
+      "description": "Create, validate, and iterate on Claude Code skills and plugins with best-practice guidance and scaffolding scripts.",
+      "source": "https://github.com/aisa-one/skill-creator",
+      "version": "1.0.0",
+      "category": "developer-tools",
+      "keywords": ["skill", "plugin", "creator", "scaffold", "validation"]
+    }
+  ]
+}
