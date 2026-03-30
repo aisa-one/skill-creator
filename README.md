@@ -17,8 +17,11 @@ Includes reference guides for progressive disclosure patterns, workflow design, 
 
 ## Installation
 
+### 通过市场安装（推荐）
 ```bash
-# In Claude Code
+# 添加市场源（仅需一次）
+/plugin marketplace add https://github.com/aisa-one/skill-creator
+# 安装插件
 /plugin install skill-creator
 ```
 
